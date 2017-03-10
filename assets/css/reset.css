@@ -9,6 +9,8 @@
 .navbar-nav>li>a {
 	line-height: 80px !important;
 	font-size: 18px;
+    color: #fff !important;
+    background-color: #ec8359;
 }
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
@@ -42,6 +44,8 @@
 
 .full-width-tabs > ul.nav.nav-tabs > li > a {
     text-align: center;
+    color: #fff !important;
+    background-color: #ec8359;
 }
 
 
