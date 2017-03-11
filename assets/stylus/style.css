@@ -134,6 +134,8 @@ header .text-header-last h4 {
 }
 header .text-header-last p {
   color: #8d8d8d;
+  font-weight: lighter;
+  font-size: 13px;
 }
 .flayer {
   position: relative;
@@ -362,6 +364,7 @@ footer .text-header-last h4 {
 }
 footer .text-header-last p {
   color: #fff;
+
 }
 footer ul {
   list-style: none;
