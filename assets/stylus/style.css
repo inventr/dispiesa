@@ -134,6 +134,8 @@ header .text-header-last h4 {
 }
 header .text-header-last p {
   color: #8d8d8d;
+  font-weight: lighter;
+  font-size: 13px;
 }
 .flayer {
   position: relative;
@@ -245,11 +247,12 @@ header .text-header-last p {
   padding: 0em 4em;
 }
 .proveedor h1 {
-  font-weight: 400;
+  font-weight: lighter;
+  font-size: 38px;
 }
 .proveedor h1,
 .proveedor p {
-  color: #ab4500;
+  color: #BB4E05;
 }
 .proveedor p {
   font-size: 16px;
@@ -272,7 +275,7 @@ header .text-header-last p {
   padding-bottom: 4em;
 }
 .productos h1 {
-  background-color: #ab4500;
+  background-color: #FF7D1E;
   color: #fff;
   text-transform: uppercase;
   text-align: center;
@@ -285,7 +288,9 @@ header .text-header-last p {
   height: 25vh;
   width: 100vw;
   color: #808080;
-  font-size: 32px;
+  font-size: 40px;
+  letter-spacing: 2px;
+  font-weight: 200 !important;
 }
 .productos figure {
   position: relative;
@@ -325,7 +330,7 @@ header .text-header-last p {
 }
 .nav-tabs-team .tab-content .contenido h1,
 .nav-tabs-team .tab-content .contenido p {
-  color: #ab4500;
+  color: #BB4E05;
 }
 .nav-tabs-team .tab-content .contenido p {
   font-size: 16px;
@@ -359,6 +364,7 @@ footer .text-header-last h4 {
 }
 footer .text-header-last p {
   color: #fff;
+
 }
 footer ul {
   list-style: none;

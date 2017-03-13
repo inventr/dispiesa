@@ -23,7 +23,7 @@
 .full-width-tabs > ul.nav.nav-tabs > li > a {
     text-align: center;
     color: #fff !important;
-    background-color: #ec8359;
+    background-color: #FF7C24;
 }
 
 
@@ -31,16 +31,16 @@
 .nav-tabs > li.active > a:hover, 
 .nav-tabs > li.active > a:focus {
     color: #FFF !important;
-    background-color: #d5673b !important;
+    background-color: #E66610 !important;
     border: 1px transparent ;
-    border: 1px solid #d5673b !important;
+    border: 1px solid #E66610 !important;
 }
  
 .nav-tabs > li > a:hover, 
 .nav-tabs > li > a:focus {
     color: #FFF !important;
-    background-color: #e48a66 !important;
-    border: 1px solid #e48a66 !important;
+    background-color: #F6741C !important;
+    border: 1px solid #F6741C !important;
 }
 
 .nav-tabs > li > a:hover {
