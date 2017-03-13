@@ -295,7 +295,7 @@ header .text-header-last p {
   bottom: 0%;
   left: 0%;
   right: 0%;
-  background-color: rgba(255,255,255,0.4);
+  background-color: #d8d9db;
 }
 .productos figure figcaption h4 {
   padding: 0px 15px;
