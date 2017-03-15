@@ -140,7 +140,7 @@ header .text-header-last p {
 .flayer {
   position: relative;
   height: 600px;
-  background-image: url("../images/banner-desktop.svg");
+  background-image: url("../images/banner-desktop.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
