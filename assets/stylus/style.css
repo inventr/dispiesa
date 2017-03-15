@@ -201,6 +201,25 @@ header .text-header-last p {
   -moz-background-size: cover;
   background-size: cover;
 }
+.materiales .bg-5 {
+  display: block;
+  background-image: url("../images/materiales/pro5.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+.materiales .bg-6 {
+  display: block;
+  background-image: url("../images/materiales/pro6.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
 .materiales h2 {
   text-transform: uppercase;
   font-weight: 400;
@@ -238,7 +257,7 @@ header .text-header-last p {
   margin: 0px 0px;
   text-transform: uppercase;
   color: #292929;
-  font-weight: 500;
+  font-weight: lighter;
 }
 .proveedor {
   padding: 2em 0em;
@@ -303,13 +322,14 @@ header .text-header-last p {
   background-color: #d8d9db;
 }
 .productos figure figcaption h4 {
-  padding: 0px 15px;
+  padding: 0px 10px;
   margin-top: 10px;
   margin-left: 0px;
   margin-bottom: 10px;
   margin-right: 0px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: lighter;
+  font-size: 16px;
 }
 .productos a {
   color: #515151;
